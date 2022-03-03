@@ -6,7 +6,4 @@
 - 👌 get necked
 - ✌ PEACE see you at the top!
 
-<!---
-Skaach10/Skaach10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
